@@ -27,6 +27,6 @@
 <a href="https://instagram.com/ankurshashwat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ankurshashwat" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ankurshashwat&theme=github_dark&show_icons=true)" alt="ankurshashwat" /></p>
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=ankurshashwat&theme=codeSTACKr&show_icons=true)" alt="ankurshashwat" /></p>
 
 
