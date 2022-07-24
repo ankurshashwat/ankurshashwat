@@ -4,7 +4,7 @@
   
 </h3>
 <p align="left">
-<img src="https://readme-typing-svg.herokuapp.com?size=15&duration=3000&color=2EA1D3FF&lines=blockchain+developer;web+3.0+enthusiast+;esports+player"><br>
+<img src="https://readme-typing-svg.herokuapp.com?size=15&duration=3000&color=FF7E29FF&lines=blockchain+developer;web+3.0+enthusiast+;esports+player"><br>
 </p>  
 
 
