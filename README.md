@@ -3,8 +3,6 @@
 ###
 
 <div align="center">
-  <img src="https://www.soa-arts.com/pub/media/wysiwyg/blog56/van-gogh-illustrations-alireza-karimi-moghaddam-22.jpg" alt="van gogh" width="600" height="600" style="object-fit: cover; object-position: center; border-radius: 8px;">
-<br /> <br />
 <p><i>I craft full-stack applications, breathing life into every line of code.</i></p>
 </div>
 
